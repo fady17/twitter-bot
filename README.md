@@ -15,17 +15,8 @@
   <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Twitter Bot" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
-  <!-- Add more icons as needed -->
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fady17&show_icons=true&locale=en&layout=compact" alt="Twitter Bot" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fady17&" alt="Twitter Bot" />
-</p>
