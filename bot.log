@@ -1,0 +1,9 @@
+2024-07-09 17:07:20,437 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-07-09 17:07:20,437 Starting bot...
+2024-07-09 17:07:20,437 Added job "scheduled_tasks" to job store "default"
+2024-07-09 17:07:20,437 Scheduler started
+2024-07-09 17:11:21,854 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-07-09 17:11:21,855 Starting bot...
+2024-07-09 17:11:21,856 Added job "scheduled_tasks" to job store "default"
+2024-07-09 17:11:21,856 Scheduler started
+2024-07-09 17:12:25,477 Bot stopped.

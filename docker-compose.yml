@@ -1,0 +1,8 @@
+version: '3'
+services:
+  twitter_bot:
+    build: .
+    container_name: twitter_bot
+    env_file:
+      - .env
+    restart: always

@@ -1,0 +1,4 @@
+tweepy
+apscheduler
+supabase
+python-dotenv
